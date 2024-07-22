@@ -35,7 +35,7 @@ The reason for why it works has nothing to do with a feature but purely with a b
 + Addon "Quartz Minerals" makes your mail client shows  transparent color in main windows menu bar. Since Windows 10 removed alpha-channel from window frames, the opacity works on Windows Vista/7/(8) only, but even in newer versions the mild turquoise color (what would be transparency in Windows Aero instead) is more eye-friendly than the default color.
 + Some other settings are also set. E.g. the Spam assistent is enabled by deault now, mails are allowed to be quarantined by your local installed Antivirus (which seems very important to me due to security measures) and some minor changes.
 
-<br><br>
+<br>
 
 -------------------------------
 LICENSE (FREEWARE)
