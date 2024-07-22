@@ -55,6 +55,7 @@ Limitations:
 USAGE
 -------------------------------
 Just download the EXE file and install Thunderbird, you can install it over any existing version - it shouldn't create any conflict.
+<br>
 If you are a developer and want to inspect the source files, just extract the EXE file with a tool like WinRAR. Its a packed archive with Inno-Setup. Inside the extracted content navigate to {tmp}\Mozilla Thunderbird\.
 <br><br>
 
