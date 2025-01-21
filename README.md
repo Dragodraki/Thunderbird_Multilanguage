@@ -2,8 +2,8 @@
 <br>
 <p align="center" <i> Planned: legacy version will be even more secure than current TB </i>
 <p align="center" <i> NG anti phishing modules, corruption detector, ultrafast spell checkings and tidier UI</i>
--------------------------------
 <br>
+-------------------------------
 <br>
 <br>
 <br>
