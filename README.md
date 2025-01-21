@@ -10,9 +10,14 @@
 <br>
 <br>
 <br>
+Don't continue reading, the update is not published yet! ...
+<br>
+<br>
+<br>
+<br>
 <br>
 
-# Thunderbird_Multilanguage
+# Thunderbird_Multilanguage (old version)
 This special Mozilla Thunderbird version 52.9.1 comes with some unique properties. <br/>
 (Release Date: 22.07.2024, Publisher: Dragodraki alias Dreamland, Notice: fork of Mozilla Thunderbird) 
 <br/>
