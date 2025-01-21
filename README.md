@@ -1,5 +1,6 @@
-# <i> Don't use! A major update will be released soon! </i>
-
+# <p align="center"> <i> Don't use! A major update will be released soon! </i>
+<br>
+<br>
 
 # Thunderbird_Multilanguage
 This special Mozilla Thunderbird version 52.9.1 comes with some unique properties. <br/>
