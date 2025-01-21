@@ -1,7 +1,8 @@
 # <p align="center"> <i> Don't use! A major update will be released soon! </i>
 <br>
-<p align="center"> <i> Planned: legacy version will be even more secure than current TB </i>
-<p align="center"> <i> NG anti phishing modules, corruption detector, ultrafast spell checkings and tidier UI</i>
+<p align="center"> <i> Planned: my special legacy version will be even far more secure than current TB </i>
+<p align="center"> <i> NG anti phishing modules, corruption detector, ultrafast spell checkings and tidier UI (all offline, without KI) </i>
+<p align="center"> <i> Never ever you will become a victim of social engineering! Just hold on until the update is released... </i>
 <br>
   
 -------------------------------
